@@ -1,0 +1,8 @@
+{
+  "name": "Hishab Khata - Smart Digital Ledger",
+  "description": "Smart digital ledger & baki management with fingerprint security, QID expiry tracker, intruder photo capture, and bilingual support.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
